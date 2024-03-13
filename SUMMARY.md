@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction](README.md)
+* [Core Concepts](core-concepts.md)
+* [Architecture](architecture.md)
+* [Theta Metachain](theta-metachain.md)
+* [Theta Edgecloud](theta-edgecloud.md)
