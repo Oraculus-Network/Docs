@@ -8,5 +8,7 @@
   * [Components](core-concepts/components.md)
   * [Innovation](core-concepts/innovation.md)
 * [Architecture](architecture.md)
-* [Theta Metachain](theta-metachain.md)
+* [Use Cases](use-cases/README.md)
+  * [Healthcare Data Management](use-cases/healthcare-data-management.md)
+  * [Financial Services and DeFi](use-cases/financial-services-and-defi.md)
 * [Theta Edgecloud](theta-edgecloud.md)
